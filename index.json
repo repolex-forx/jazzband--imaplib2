@@ -1,0 +1,11 @@
+{
+  "org": "jazzband",
+  "repo": "imaplib2",
+  "versions": [
+    {
+      "commit": "6d45125882b80f71a68fcff1de9f6794c3c91815",
+      "tag": "",
+      "parsed_at": "2026-10-11T04:05:47.030207+00:00"
+    }
+  ]
+}
