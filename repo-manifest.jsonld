@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jazzband/imaplib2/commit/6d45125882b80f71a68fcff1de9f6794c3c91815",
       "git:hexsha": "6d45125882b80f71a68fcff1de9f6794c3c91815",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jazzband/imaplib2/commit/9f62505f8fefce01d27e1be4a0f3406db0c1ddcd",
